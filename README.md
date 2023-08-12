@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vaidehi-cell
-- 👀 I’m interested in Competitive programming, Web Development and Machine learning.
-- 🌱 I’m currently learning basics of ML.
+- 👀 I’m always into solving interesting problems, developing useful applications and learning new stuff.
 - 📫 To reach me, mail at vaidesai171202@gmail.com
 
 <!---
